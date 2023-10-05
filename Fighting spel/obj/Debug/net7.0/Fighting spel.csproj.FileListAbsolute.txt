@@ -1,0 +1,14 @@
+C:\Users\julius.jansson\Desktop\Programering 1\Fighting spel\Fighting spel\bin\Debug\net7.0\Fighting spel.exe
+C:\Users\julius.jansson\Desktop\Programering 1\Fighting spel\Fighting spel\bin\Debug\net7.0\Fighting spel.deps.json
+C:\Users\julius.jansson\Desktop\Programering 1\Fighting spel\Fighting spel\bin\Debug\net7.0\Fighting spel.runtimeconfig.json
+C:\Users\julius.jansson\Desktop\Programering 1\Fighting spel\Fighting spel\bin\Debug\net7.0\Fighting spel.dll
+C:\Users\julius.jansson\Desktop\Programering 1\Fighting spel\Fighting spel\bin\Debug\net7.0\Fighting spel.pdb
+C:\Users\julius.jansson\Desktop\Programering 1\Fighting spel\Fighting spel\obj\Debug\net7.0\Fighting spel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julius.jansson\Desktop\Programering 1\Fighting spel\Fighting spel\obj\Debug\net7.0\Fighting spel.AssemblyInfoInputs.cache
+C:\Users\julius.jansson\Desktop\Programering 1\Fighting spel\Fighting spel\obj\Debug\net7.0\Fighting spel.AssemblyInfo.cs
+C:\Users\julius.jansson\Desktop\Programering 1\Fighting spel\Fighting spel\obj\Debug\net7.0\Fighting spel.csproj.CoreCompileInputs.cache
+C:\Users\julius.jansson\Desktop\Programering 1\Fighting spel\Fighting spel\obj\Debug\net7.0\Fighting spel.dll
+C:\Users\julius.jansson\Desktop\Programering 1\Fighting spel\Fighting spel\obj\Debug\net7.0\refint\Fighting spel.dll
+C:\Users\julius.jansson\Desktop\Programering 1\Fighting spel\Fighting spel\obj\Debug\net7.0\Fighting spel.pdb
+C:\Users\julius.jansson\Desktop\Programering 1\Fighting spel\Fighting spel\obj\Debug\net7.0\Fighting spel.genruntimeconfig.cache
+C:\Users\julius.jansson\Desktop\Programering 1\Fighting spel\Fighting spel\obj\Debug\net7.0\ref\Fighting spel.dll
